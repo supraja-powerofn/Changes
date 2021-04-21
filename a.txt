@@ -1,2 +1,3 @@
 HI there!
 Addin b2
+Committing in b2
